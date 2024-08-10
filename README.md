@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @SamarAanand
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Projects
-- 😄 Pronouns: What are they ?
-- ⚡ Fun fact: Life is RANDOM!!
-
-<!---
-SamarAanand/SamarAanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a **GSSOC** Contributor
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to contribute to Developers **C & above** grade on Github 
+- ⚡ Fun fact: You can commit to a past date on Gitlab
